@@ -15,6 +15,7 @@ The main goal of this project is to gain understanding from Walmart's sales data
 
 3.	Customer Analysis
 > This analysis is focused on identifying various customer segments, understanding purchasing trends, and evaluating the profitability associated with each of these customer segments.
+
 ## Approach Used
 ***1.	Data Wrangling***
 
